@@ -1,0 +1,64 @@
+.a1{
+    background-color: cyan;
+    border: black solid 20px ;
+    border-style: double 20px;
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px;
+    
+}
+.a2{
+    background-color: rgb(250, 7, 7);
+    border-style: dashed 20px;
+    border: black solid 20px;
+    padding: 20px;
+    margin: 20px;
+}
+.a3{
+    background-color: darkolivegreen;
+    border: darkorange solid 20px;
+    border-style: dotted 30px;
+    margin: auto 10px;
+    padding: 30px;
+    font-size: 15px;
+    list-style: none;
+}
+.a4{
+    background-color: deeppink;
+    border-style: dotted black;
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: violet solid 20px;
+}
+.button {
+background-color: blue; 
+}
+.button:hover{
+    /* font-size: 50px; */
+    cursor: pointer;
+    /* padding: 50px; */
+    /* margin: 30px; */
+    
+}
+.button:active{
+    color: chartreuse;
+    background-color: coral ;
+    font-size: 30px;
+}
+.a5{
+    background-color: burlywood;
+    border-style: double 50px;
+    font-size: 20px;
+    padding: 15px;
+    margin: 20px;
+    border: solid red 20px;
+}
+.a6{
+    background-color: chartreuse;
+    border: brown solid 15px;
+}
+.a7{
+    background-color: darkgoldenrod;
+    border: solid yellowgreen 15px;
+}
